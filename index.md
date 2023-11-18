@@ -18,5 +18,3 @@ I am a master's student and research assistant at the National University of Sin
 - **[Feb. 2023]** Glad to join the Multi-Agent Robotic Motion Laboratory and work with Prof. Guillaume Sartoretti.
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
