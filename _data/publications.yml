@@ -5,7 +5,7 @@ main:
     conference_short: CoRL
     conference: 7th Conference on Robot Learning <strong>(CoRL)</strong>, 2023.
     pdf: https://www.marmotlab.org/publications/52-CORL2023-MaplessNavigation.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
+    code: https://github.com/marmotlab/Context_Aware_Navigation
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Aw43nDcPGTkJ:scholar.google.com/&output=citation&scisdr=ClE57TXJEI7TwPAHCg4:AFWwaeYAAAAAZVkBEg6ZWy2LOOB33KJRJlJB6XI&scisig=AFWwaeYAAAAAZVkBEpBeKUH066wLex1A6GH3R3A&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
     image: ./assets/img/corl2023_mapless_navigation.png
     # notes: Accept
