@@ -1,6 +1,6 @@
 main:
 
-  - title: Context-Aware Deep Reinforcement Learning for Autonomous Robotic Navigation in Unknown Area
+  - title: "Context-Aware Deep Reinforcement Learning for Autonomous Robotic Navigation in Unknown Area"
     authors: <strong>Jingsong Liang</strong>, Zhichen Wang, Yuhong Cao, Jimmy Chiun, Mengqi Zhang, Guillaume Sartoretti
     conference: Conference on Robot Learning (CoRL), 2023.
     pdf: https://www.marmotlab.org/publications/52-CORL2023-MaplessNavigation.pdf
@@ -8,7 +8,7 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Aw43nDcPGTkJ:scholar.google.com/&output=citation&scisdr=ClE57TXJEI7TwPAHCg4:AFWwaeYAAAAAZVkBEg6ZWy2LOOB33KJRJlJB6XI&scisig=AFWwaeYAAAAAZVkBEpBeKUH066wLex1A6GH3R3A&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
     image: ./assets/img/corl2023_mapless_navigation.png
 
-  - title: IR2: Implicit Rendezvous for Robotic Exploration Teams under Sparse Intermittent Connectivity
+  - title: "IR2 Implicit Rendezvous for Robotic Exploration Teams under Sparse Intermittent Connectivity"
     authors: Derek Tan Ming Siang, Yixiao Ma, <strong>Jingsong Liang</strong>, Yi Cheng Chng, Yuhong Cao, Guillaume Sartoretti
     conference: Submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024.
     image: ./assets/img/iros2024_mae_comms.png
