@@ -1,25 +1,26 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
+subtitle: Research Assistant, National University of Singapore.
+social: true # includes social icons at the bottom of the page
 profile:
   align: right
-  image: prof_pic.jpg
+  image: jingsongliang.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: >
+  #   <p>E2-01-06</p>
+  #   <p>College of Design and Engineering</p>
+  #   <p>National University of Singapore, Singapore</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+# selected_papers: true # includes a list of papers marked as "selected={true}"
+all_papers: true # includes all the papers"
+
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a research assistant at the [National University of Singapore](https://www.nus.edu.sg/), working with [Prof. Guillaume Sartoretti](https://www.marmotlab.org/bio.html) at the [Multi-Agent Robotic Motion Laboratory](https://www.marmotlab.org/) and [Prof. Rodney Teo](https://temasek-labs.nus.edu.sg/program/program_flightscienceswarm_tsltshr.html) at the [Temasek Laboratories, NUS](https://www.temasek-labs.nus.edu.sg/). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I have received the master's degree in computer science from the National University of Singapore in 2024 and the bachelor's degree in electrical engineering from the Northeastern University in 2022. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests focus on generative and foundation models for cooperative multi-agent learning. I am also working on multi-agent systems and autonomous robotic deployments.

@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2024-04-22 07:59:00-0400
+inline: true
+related_posts: false
+---
+
+I finished my oral defense "*Hierarchical Decision Network for Distributed Multi-Robot Exploration*" for my Master's degree! Many thanks to my advisor [Prof. Guillaume Sartoretti](https://www.marmotlab.org/bio.html) and my examiner [Prof. Harold Soh](https://haroldsoh.com/)! 

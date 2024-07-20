@@ -1,114 +1,57 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
-
-@book{einstein1920relativity,
-  title={Relativity: the Special and General Theory},
-  author={Einstein, Albert},
-  year={1920},
-  publisher={Methuen & Co Ltd},
-  html={relativity.html}
+@inproceedings{ma2024context,
+  title={Privileged Reinforcement and Communication Learning for Distributed, Bandwidth-limited Multi-Robot Exploration},
+  author={Ma, Yixiao and Liang, Jingsong and Cao, Yuhong and Tan, Derek Ming Siang and Sartoretti, Guillaume Adrien},
+  booktitle={International Symposium on Distributed Autonomous Robotic Systems},
+  year={2024},
+  organization={Springer},
+  pdf = {},
+  code = {},
+  bibtex_show = {true},
+  preview = {dars2024.png},
+  selected = {true},
+  abstract = {Communication bandwidth is an important consideration in multi-robot exploration, where information exchange among robots is critical. While existing methods typically aim to reduce communication throughput, they either require significant computation or significantly compromise exploration efficiency. In this work, we propose a deep reinforcement learning framework based on communication and privileged reinforcement learning to achieve a significant reduction in bandwidth consumption, while keeping exploration efficiency very high. Specifically, our approach allows robots to learn to embed the most salient information from their individual belief (partial map) over the environment into fixed-sized messages. Robots then reason about their own belief as well as received messages to distributedly explore the environment while avoiding redundant work. In doing so, we employ privileged learning and learned attention mechanisms to endow the critic (i.e., teacher) network with ground truth map knowledge to effectively guide the policy (i.e., student) network during training. Compared to state-of-the-art baselines, our model allows the team to reduce communication by up to two orders of magnitude, while only sacrificing a marginal \textbf{2.4\%} in total travel distance, paving the way for efficient, distributed multi-robot exploration in bandwidth-limited scenarios.}
 }
 
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
+@inproceedings{derek2024context,
+  title={IR2: Implicit Rendezvous for Robotic Exploration Teams under Sparse Intermittent Connectivity},
+  author={Tan, Derek Ming Siang and Ma, Yixiao and Liang, Jingsong and Chng, Yi Cheng and Cao, Yuhong and Sartoretti, Guillaume Adrien},
+  booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  year={2024},
+  organization={IEEE},
+  pdf = {},
+  code = {},
+  selected = {true},
+  bibtex_show = {true},
+  abstract = {}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
-}
-
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein*†, A. and Podolsky*, B. and Rosen*, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  location={New Jersey},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  google_scholar_id={qyhmnyLat1gC},
-  video={https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
-  additional_info={. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
-  annotation={* Example use of superscripts<br>† Albert Einstein},
-  selected={true}
-}
-
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
-
-@Article{einstein1905photoelectriceffect,
-  bibtex_show={true},
-  abbr={Ann. Phys.},
-  title="{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}",
-  author={Albert Einstein},
-  abstract={This is the abstract text.},
-  journal={Ann. Phys.},
-  volume={322},
-  number={6},
-  pages={132--148},
-  year={1905},
-  doi={10.1002/andp.19053220607},
-  award={Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name={Nobel Prize}
-}
-
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif},
-  abbr={Vision}
+@inproceedings{liang2023context,
+  title={Context-Aware Deep Reinforcement Learning for Autonomous Robotic Navigation in Unknown Area},
+  author={Liang, Jingsong and Wang, Zhichen and Cao, Yuhong and Chiun, Jimmy and Zhang, Mengqi and Sartoretti, Guillaume Adrien},
+  booktitle={Conference on Robot Learning},
+  pages={1425--1436},
+  year={2023},
+  organization={PMLR},
+  pdf = {},
+  code = {https://github.com/marmotlab/Context_Aware_Navigation},
+  bibtex_show = {true},
+  selected = {true},
+  preview = {corl_abs.gif},
+  abstract = {Mapless navigation refers to a challenging task where a mobile robot must rapidly
+navigate to a predefined destination using its partial knowledge of the environment, which is updated online along the way, instead of a prior map of the environment. Inspired by the recent developments in deep reinforcement learning (DRL),
+we propose a learning-based framework for mapless navigation, which employs
+a context-aware policy network to achieve efficient decision-making (i.e., maximize the likelihood of finding the shortest route towards the target destination),
+especially in complex and large-scale environments. Specifically, our robot learns
+to form a context of its belief over the entire known area, which it uses to reason
+about long-term efficiency and sequence show-term movements. Additionally, we
+propose a graph rarefaction algorithm to enable more efficient decision-making in
+large-scale applications. We empirically demonstrate that our approach reduces
+average travel time by up to 61.4% and average planning time by up to 88.2%
+compared to benchmark planners (D*lite and BIT) on hundreds of test scenarios.
+We also validate our approach both in high-fidelity Gazebo simulations as well
+as on hardware, highlighting its promising applicability in the real world without
+further training/tuning.}
 }
