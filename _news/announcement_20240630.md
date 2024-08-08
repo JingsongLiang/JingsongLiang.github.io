@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper on *multi-agent exploration under communication constraints* has been accepted for **oral presentation** by [**IROS 2024**](https://iros2024-abudhabi.org/)!
+Our paper on _multi-agent exploration under communication constraints_ has been accepted for **oral presentation** by [**IROS 2024**](https://iros2024-abudhabi.org/)!

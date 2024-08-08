@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper on *autonomous navigation in unknown areas* has been accepted by [**CoRL 2023**](https://www.corl2023.org/)! 
+Our paper on _autonomous navigation in unknown areas_ has been accepted by [**CoRL 2023**](https://www.corl2023.org/)!

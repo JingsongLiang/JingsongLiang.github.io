@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper on *multi-agent exploration under bandwidth constraints* has been accepted by [**DARS 2024**](https://dars2024.engineering.cornell.edu/)! 
+Our paper on _multi-agent exploration under bandwidth constraints_ has been accepted by [**DARS 2024**](https://dars2024.engineering.cornell.edu/)!
