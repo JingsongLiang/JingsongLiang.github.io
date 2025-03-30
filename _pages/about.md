@@ -17,10 +17,9 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 # social: true # includes social icons at the bottom of the page
 ---
+Jingsong Liang joined the National University of Singapore as a research staff member in 2024, working with [Prof. Guillaume Sartoretti](https://www.marmotlab.org/bio.html) at the Multi-Agent Robotic Motion Laboratory and [Prof. Rodney Teo](https://temasek-labs.nus.edu.sg/program/program_flightscienceswarm_tsltshr.html) at the Temasek Laboratories. Before that, he received the M.S. degree in Computer Science from the School of Computing, National University of Singapore in 2024 and the B.S. degree in Electrical Engineering from the School of Computing Science and Engineering, Northeastern University in 2022. 
 
-I am currently a research staff at the **National University of Singapore** (NUS), working with [**Prof. Guillaume Sartoretti**](https://www.marmotlab.org/bio.html) at the **Multi-Agent Robotic Motion Laboratory** and [**Prof. Rodney Teo**](https://temasek-labs.nus.edu.sg/program/program_flightscienceswarm_tsltshr.html) at the **Temasek Laboratories**. Before that, I received my master's degree in computer science from the National University of Singapore and my bachelor's degree in electrical engineering from Northeastern University.
-
-My research focuses on generative and foundation models for cooperative multi-agent learning. I also work on multi-robot systems and autonomous robotic exploration, navigation, and coverage.
+His research interests include autonomous intelligent systems, foundation and generative models for robot learning, and homogeneous/heterogeneous multi-robot learning.
 
 Happy to chat more about relevant research topics and collaborations!
 
