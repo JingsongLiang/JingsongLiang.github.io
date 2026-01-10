@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D. Student at Nanyang Technological University
 
 profile:
   align: right
@@ -12,12 +12,14 @@ profile:
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
-
+social: true 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-# social: true # includes social icons at the bottom of the page
+
 ---
-Jingsong Liang will join [Nanyang Technological University](https://www.ntu.edu.sg/) as a PhD student in Robotics and AI under the [IGP Research Award](https://www.ntu.edu.sg/graduate-college/admissions/programme/interdisciplinary-graduate-programme) in 2026, working with [Prof. Chen Lv](https://lvchen.wixsite.com/automan). Before that, he was pleased to join the [National University of Singapore](https://www.nus.edu.sg/) in 2024 as a Research Associate, working with [Prof. Guillaume Sartoretti](https://www.marmotlab.org/bio.html) at the Multi-Agent Robotic Motion Laboratory and [Prof. Rodney Teo](https://temasek-labs.nus.edu.sg/program/program_flightscienceswarm_tsltshr.html) at Temasek Laboratories. He received his M.S. degree in Computer Science from the [School of Computing, National University of Singapore](https://www.comp.nus.edu.sg/) in 2024 and his B.S. degree in Electrical Engineering from the [School of Computer Science and Engineering, Northeastern University](https://www.neu.edu.cn/) in 2022.
+Jingsong Liang is a PhD student in Robotics and AI at [Nanyang Technological University](https://www.ntu.edu.sg/), working with [Prof. Chen Lv](https://lvchen.wixsite.com/automan) and [Prof. Wanhua Li](https://li-wanhua.github.io/). He is a recipient of the [IGP Research Award](https://www.ntu.edu.sg/graduate-college/admissions/programme/interdisciplinary-graduate-programme) and is affiliated with the Automated Driving and Human-Machine System Laboratory ([AutoMan Research Lab @ NTU](https://lvchen.wixsite.com/automan)). 
+
+From 2024 to 2025, he was a Research Associate at [National University of Singapore](https://www.nus.edu.sg/), working with [Prof. Guillaume Sartoretti](https://www.marmotlab.org/bio.html) at the Multi-Agent Robotic Motion Laboratory ([MARMot Lab @ NUS](https://www.marmotlab.org/)) and [Prof. Rodney Teo](https://temasek-labs.nus.edu.sg/program/program_flightscienceswarm_tsltshr.html) at Temasek Laboratories. He received his M.S. degree in Computer Science from the [School of Computing, National University of Singapore](https://www.comp.nus.edu.sg/) in 2024, and his B.S. degree in Electrical Engineering from the [School of Computer Science and Engineering, Northeastern University](https://www.neu.edu.cn/) in 2022.
 
 His research interests include multimodal large language models, autonomous exploration/navigation, and multi-agent systems.
 

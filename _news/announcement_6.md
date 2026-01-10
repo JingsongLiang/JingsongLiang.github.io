@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper on hierarchical planning for autonomous navigation and exploration has been accepted by [**RA-L**](https://www.ieee-ras.org/publications/ra-l) and will be presented at [**ICRA 2025**](https://2025.ieee-icra.org/)!
+Our paper on hierarchical planning for autonomous navigation and exploration (HDPlanner) has been accepted by [RA-L](https://www.ieee-ras.org/publications/ra-l) and will be presented at [ICRA 2025](https://2025.ieee-icra.org/)!

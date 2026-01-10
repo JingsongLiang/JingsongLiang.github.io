@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My co-author paper on generative-based exploration has been accepted by [**ICRA 2025**](https://2025.ieee-icra.org/)! See you in Atlanta, USA!
+Our paper on generative-based exploration (DARE) has been accepted by [ICRA 2025](https://2025.ieee-icra.org/)! See you in Atlanta, USA!

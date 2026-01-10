@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper on autonomous robotic navigation in unknown environments has been accepted by [**CoRL 2023**](https://www.corl2023.org/)!
+Our paper on autonomous robotic navigation in unknown environments has been accepted by [CoRL 2023](https://www.corl2023.org/)! See you in Atlanta, USA!

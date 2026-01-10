@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper on information sharing mechanisms for multi-robot exploration has been accepted for **oral presentation** by [**DARS 2024**](https://dars2024.engineering.cornell.edu/)!
+Our paper on information sharing mechanisms for multi-robot exploration has been accepted for oral presentation by [DARS 2024](https://dars2024.engineering.cornell.edu/)!

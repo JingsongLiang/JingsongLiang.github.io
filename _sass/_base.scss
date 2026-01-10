@@ -441,6 +441,49 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+/* Social / contact icons */
+
+.contact-icons {
+  --icon-size: 1.8rem;
+
+  a {
+    display: inline-flex;
+    align-items: center;
+    margin-right: 0.6rem;
+    text-decoration: none;
+  }
+
+  i {
+    font-size: var(--icon-size);
+    line-height: 1;
+  }
+
+  img {
+    width: var(--icon-size);
+    height: var(--icon-size);
+  }
+
+  svg {
+    width: var(--icon-size);
+    height: var(--icon-size);
+
+    image {
+      width: 100%;
+      height: 100%;
+    }
+  }
+
+  i::before {
+    color: var(--global-text-color);
+    transition: all 0.2s ease-in-out;
+  }
+
+  a:hover i::before {
+    color: var(--global-theme-color);
+  }
+}
+
+
 .wechat-modal {
   display: none;
   position: fixed;

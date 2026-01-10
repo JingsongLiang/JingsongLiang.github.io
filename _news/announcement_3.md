@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper on multi-robot exploration and rendezvous under limited communication range has been accepted for **oral presentation** by [**IROS 2024**](http://iros2024-abudhabi.org/)!
+Our paper on multi-robot exploration and rendezvous under limited communication range (IR2) has been accepted for oral presentation by [IROS 2024](http://iros2024-abudhabi.org/)!
