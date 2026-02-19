@@ -23,13 +23,3 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
-
-// background
-body {
-  background: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%) !important;
-  background-attachment: fixed; 
-  min-height: 100vh;
-}
-.dark-theme body {
-  background: linear-gradient(135deg, #1c1c1d 0%, #2c3e50 100%) !important;
-}
