@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-This year, I'm happy to serve as reviewer for IROS 2024, ICLR 2025, and ICRA 2025.
+Happy to serve as reviewer for IROS 2024, ICLR 2025, and ICRA 2025.
