@@ -26,7 +26,16 @@
         {% endif %}
       {% endif %}
       {% if entry.preview %}
-        {% if entry.preview contains '://' %}
+        {% if entry.preview contains '.mp4' %}
+          {% assign preview_path = entry.preview | prepend: '/assets/video/' %}
+          <video
+            class="preview img-fluid z-depth-1 rounded"
+            src="{{ preview_path | relative_url | bust_file_cache }}"
+            autoplay muted loop playsinline
+            preload="metadata"
+            aria-label="{{ entry.title | escape }} preview"
+          ></video>
+        {% elsif entry.preview contains '://' %}
           <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
         {% else %}
           {% assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' %}
