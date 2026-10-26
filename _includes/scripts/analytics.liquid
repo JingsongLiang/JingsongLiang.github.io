@@ -10,6 +10,15 @@
     gtag('config', '{{ site.google_analytics }}');
   </script>
 {% endif %}
+
+{% if site.enable_cloudflare_web_analytics %}
+  <!-- Cloudflare Web Analytics -->
+  <script
+    defer
+    src="https://static.cloudflareinsights.com/beacon.min.js"
+    data-cf-beacon='{"token": "{{ site.cloudflare_web_analytics }}"}'
+  ></script>
+{% endif %}
 {% if site.enable_cronitor_analytics %}
   <!-- Cronitor RUM -->
   <script async src="https://rum.cronitor.io/script.js"></script>
