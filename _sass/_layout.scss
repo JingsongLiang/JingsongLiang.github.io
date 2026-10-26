@@ -16,7 +16,7 @@ body {
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
 
-  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 
   line-height: 1.55;
 
@@ -59,6 +59,10 @@ body.sticky-bottom-footer {
   img {
     width: 100%;
   }
+}
+
+.about-intro {
+  line-height: 1.8;
 }
 
 // TODO: redefine content layout.
