@@ -2,23 +2,40 @@
  * Content
  ******************************************************************************/
 
+// Match the display face used by Physical Intelligence for its article titles.
+@font-face {
+  font-family: "Signifier PI";
+  src: url("https://www.pi.website/_next/static/media/dcb532816ecc2c68-s.p.woff2") format("woff2");
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
 body {
   padding-bottom: 70px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
 
   font-family:
-    -apple-system,
-    BlinkMacSystemFont,
-    "Segoe UI",
-    Helvetica,
-    Arial,
-    sans-serif;
+    ui-monospace,
+    SFMono-Regular,
+    Menlo,
+    Monaco,
+    Consolas,
+    "Liberation Mono",
+    "Courier New",
+    monospace;
 
   line-height: 1.55;
 
   p {
     margin-bottom: 0.8rem;
+  }
+
+  h1,
+  h2 {
+    font-family: "Signifier PI", Georgia, "Times New Roman", serif;
+    font-weight: 400;
   }
 
   h1,

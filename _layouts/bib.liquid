@@ -260,17 +260,6 @@
       {% endif %}
       {% if entry.code %}
         <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
-
-        {% if entry.code contains "github.com" %}
-          {% assign repo_path = entry.code | split: "github.com/" | last | split: "/" %}
-          {% assign owner = repo_path[0] %}
-          {% assign repo = repo_path[1] | replace: ".git", "" %}
-          <img
-            src="https://img.shields.io/github/stars/{{ owner }}/{{ repo }}?style=social"
-            alt="GitHub stars"
-            style="vertical-align: middle; margin-left: 6px;"
-          >
-        {% endif %}
       {% endif %}
     </div>
     {% if site.enable_publication_badges %}
